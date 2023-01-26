@@ -4,6 +4,12 @@
 
 I did this web project in order to optimize the use of the functionality of an existing code for a web application. I did this through improving the effectiveness of the  CSS code, changing the html document to use semantic html elements, adding alt text to images, and commenting the css code to make it clearer for other developers. I also changed the ids and classes of some of the html elements for clarity/improved structure. 
 
+My project was deployed to the following website: https://pvlln.github.io/PabloVillalon-challenge-1/
+
+Here you will find my finisher project. 
+
+The project looks like the screenshots on my assets folder.
+
 
 ## Installation
 
